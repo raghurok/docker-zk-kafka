@@ -23,3 +23,5 @@ To tty into docker container, run
 ```
 docker exec -it <HASH OF CONTAINER> /bin/bash
 ```
+
+Running the docker image starts the Kafka server and Zookeeper.
